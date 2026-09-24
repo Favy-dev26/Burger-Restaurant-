@@ -1146,3 +1146,9 @@ footer details[open] summary::after {
         display: block;
     }
 }
+
+.student-info {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
