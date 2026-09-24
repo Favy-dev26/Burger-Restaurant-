@@ -1150,5 +1150,6 @@ footer details[open] summary::after {
 .student-info {
     color: white;
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
+    padding: 15px 20px 120px;
 }
